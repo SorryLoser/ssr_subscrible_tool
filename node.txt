@@ -1,4 +1,1 @@
-# 节点列表
-
-# Other VPN
 ssr://NDMuMjU0LjIxNy41NTo2NjY2Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpOalkyTmcvP29iZnNwYXJhbT0mZ3JvdXA9TVRJeg
